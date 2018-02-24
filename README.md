@@ -2,7 +2,7 @@
 
 #### A To Do List created with PostgreSQL, Sinatra, and Ruby. 02/18/2018
 
-#### By **Hannah Lee**
+#### By *Bryce Frazier**
 
 ## Description
 
@@ -30,4 +30,4 @@ If you have any questions or concerns, please contact me at: www.github.com/RunH
 
 ### License
 
-Copyright (c) 2018  **Hannah Lee**
+Copyright (c) 2018  **Bryce Frazier**
